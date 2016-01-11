@@ -21,3 +21,5 @@ github_username: hamzapurra
 markdown: kramdown
 
 permalink: /:title
+
+exclude: [vendor]
